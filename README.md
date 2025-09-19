@@ -1,2 +1,3 @@
 # Project1
-this my first project on github
+ this is spodify clone project 
+ in this only css and html is used
