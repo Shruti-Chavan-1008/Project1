@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "this is the clone of spotify website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruti-Chavan-1008/Project1.git"
+  },
+  "author": "SHRUTI CHAVAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shruti-Chavan-1008/Project1/issues"
+  },
+  "homepage": "https://github.com/Shruti-Chavan-1008/Project1#readme"
+}
